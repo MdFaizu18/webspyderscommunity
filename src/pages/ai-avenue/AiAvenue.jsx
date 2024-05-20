@@ -46,7 +46,7 @@ const AiAvenue = () => {
               email={"shriharijas@gmail.com"}
               description={"Passionate AI Enthusiast with a knack for exploring the fascinating realms of artificial intelligence. Eager to delve into machine learning algorithms, deep neural networks, and cutting-edge AI applications to drive innovation and solve complex problems."}
               linkedinl={"https://www.linkedin.com/in/shrihari-srinivasan/"}
-              portfoliol={"null"}
+              portfoliol={"/hari"}
             />
 
 
