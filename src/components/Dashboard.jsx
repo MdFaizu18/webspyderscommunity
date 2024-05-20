@@ -10,14 +10,13 @@ import supportImg from '../assets/images/support.jpg';
 import cloudImg from '../assets/images/devops.png';
 import javaImg from '../assets/images/java1.jpeg';
 import techImg from '../assets/images/tech.jpeg';
-import { animateScroll as scroll } from 'react-scroll'; // Corrected import statement
-// import { Link, Element } from 'react-scroll';
 
 import Footer from './Footer';
 
 const Dashboard = () => {
+  
   const handleLinkClick = () => {
-    scroll.scrollToTop();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   return (
