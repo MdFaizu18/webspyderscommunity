@@ -11,7 +11,7 @@ import cloudImg from '../assets/images/devops.png';
 import javaImg from '../assets/images/java1.jpeg';
 import techImg from '../assets/images/tech.jpeg';
 // removed react scrool 
-
+// commited through the vs code using git
 const Dashboard = () => {
 
   const handleLinkClick = () => {
