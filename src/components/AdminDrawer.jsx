@@ -73,12 +73,13 @@ export default function AdminDrawer({imgs,name,email,description,linkedinl,portf
                       <img src={linkedin} alt="linkedin" height={35} width={35} style={{marginTop:'2px'}} />
             </a>
             </Box>
+            { portfoliol!="null" &&
             <Box>  
                         <a href={portfoliol}  target='_blank'>
                      <img src={portfolio} alt="portfolio" height={35} width={35} />
             </a>
             </Box>
-
+            }
         </Box>
         </Box>
         <Box sx={{bgcolor:"#FFA500",height:'100px'}}>
