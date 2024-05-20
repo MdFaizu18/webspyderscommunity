@@ -47,7 +47,7 @@ const CloudDevops = () => {
               email={"christober2907@gmail.com"}
               description={"Passionate Cloud Engineer with expertise in building scalable and secure cloud solutions. Always eager to learn and explore new cloud technologies to optimize performance and deliver robust applications."}
               linkedinl={"https://www.linkedin.com/in/christobers/"}
-              portfoliol={'/chris'}
+              portfoliol={'null'}
             />
 
             <Link href="https://chat.whatsapp.com/DnGV00advE1EoPgOTPP0xN" target='_blank' sx={{ textDecoration: 'none' }}>
