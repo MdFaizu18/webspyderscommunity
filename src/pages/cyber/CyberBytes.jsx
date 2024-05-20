@@ -47,7 +47,7 @@ const CyberBytes = () => {
                             email={"atheshpargau7x@gmail.com"}
                             description={"Passionate Cybersecurity Specialist and Blockchain Developer with a knack for identifying vulnerabilities, securing systems, and building decentralized applications. Always eager to learn and implement the latest technologies to protect data and create transparent, secure solutions."}
                             linkedinl={"https://www.linkedin.com/in/athesh-pargau-r-a533801b4/"}
-                            portfoliol={"null"}
+                            portfoliol={"/hod"}
                         />
 
                         <Link href="https://chat.whatsapp.com/DnGV00advE1EoPgOTPP0xN" target='_blank' sx={{ textDecoration: 'none' }}>
