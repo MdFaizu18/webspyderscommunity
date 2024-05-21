@@ -11,5 +11,6 @@ export const MainBoxWrapper = styled(Box)({
         padding: '15% 12% 0 12%',
         gridTemplateColumns:"1fr",
         gap: '1.5%',
+        height:"3000px",
     }
 })
