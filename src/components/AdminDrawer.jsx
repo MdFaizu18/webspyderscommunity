@@ -44,7 +44,7 @@ export default function AdminDrawer({imgs,name,email,description,linkedinl,portf
             <Box sx={{
                 boxShadow:"rgba(0, 0, 0, 0.24) 0px 3px 8px",
         padding:"10% 5%",width:"100%",borderRadius:'10px',height:'60%',
-                // backgroundColor:"#EEEEEE"
+               
         }}>
          <Typography variant='h5' sx={{ fontWeight: "600",marginBottom:'2%' }}>Details :</Typography>
         <Box sx={{display:'flex',gap:"0px"}}>
