@@ -8,7 +8,7 @@ const Join = () => {
   return (
     <>
         <Box>
-           
+           // this is just the simple box for join elements and pages over here
         </Box>
     </>
   )
